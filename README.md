@@ -1,7 +1,8 @@
 # Operating System Programs in python
 
 ## It contains python code for
-    1) Memory allocation :
+
+1) Memory allocation :
         * First fit
         * Best fit
         * Worst fit
