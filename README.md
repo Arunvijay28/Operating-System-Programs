@@ -7,12 +7,12 @@
         * Best fit
         * Worst fit
     
-    2) Page Replacement Algorithms:
+2) Page Replacement Algorithms:
         * FIFO
         * LRU
         * Optimal
-    
-    3) Scheduling ALgorithms
+
+3) Scheduling ALgorithms
         * FCFS
         * Priority Preemptive
         * Shortest Remaining Time First (SRTF)
